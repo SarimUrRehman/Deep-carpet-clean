@@ -1,0 +1,8 @@
+{
+  "name": "Deep Carpet Restoration",
+  "description": "Professional carpet cleaning, deep restoration, pet stain and odor removal, and upholstery cleaning in Middle Tennessee. 5.0-star rated service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
